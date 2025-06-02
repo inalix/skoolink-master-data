@@ -1,0 +1,27 @@
+[
+    {
+        "code": "0001",
+        "name": "MI Murni Sunan Drajat",
+        "domain": "https://mimurni.rlite.id"
+    },
+    {
+        "code": "0002",
+        "name": "SMP APLIKATIF As Sunniyyah Sunan Drajat Lamongan",
+        "domain": "https://smpaplikatif.rlite.id"
+    },
+    {
+        "code": "0003",
+        "name": "SMP Negeri 2 Lamongan",
+        "domain": "https://digischool.smpn2lmg.sch.id"
+    },
+    {
+        "code": "0004",
+        "name": "SMP Negeri 1 Lamongan",
+        "domain": "https://snesalamdigital.rlite.id"
+    },
+    {
+        "code": "0005",
+        "name": "SMA Negeri 1 Ngimbang",
+        "domain": "https://siwangi.rlite.id"
+    }
+]
