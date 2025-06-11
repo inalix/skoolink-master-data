@@ -33,5 +33,10 @@
         "code": "0005",
         "name": "SMA Negeri 1 Ngimbang",
         "domain": "https://siwangi.rlite.id"
+    },
+    {
+        "code": "9999",
+        "name": "Skoolink school",
+        "domain": "http://10.11.1.34"
     }
 ]
