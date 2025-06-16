@@ -35,12 +35,12 @@
         "domain": "https://siwangi.rlite.id"
     },
     {
-        "code": "8888",
+        "code": "9999",
         "name": "Skoolink school",
         "domain": "http://10.11.1.34"
     },
     {
-        "code": "9999",
+        "code": "8888",
         "name": "Skoolink Reiza",
         "domain": "http://192.168.1.180:8001"
     }
