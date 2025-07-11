@@ -11,8 +11,8 @@
     },
     {
         "code": "2222",
-        "name": "Devel2",
-        "domain": "https://skoolink.demo.inalix.com"
+        "name": "Devel2 Local",
+        "domain": "http://192.168.1.70:7777"
     },
     {
         "code": "0001",
