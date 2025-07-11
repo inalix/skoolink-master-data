@@ -10,6 +10,11 @@
         "domain": "https://skoolink.demo.inalix.com"
     },
     {
+        "code": "2222",
+        "name": "Devel2",
+        "domain": "https://skoolink.demo.inalix.com"
+    },
+    {
         "code": "0001",
         "name": "MI Murni Sunan Drajat",
         "domain": "https://mimurni.rlite.id"
@@ -22,17 +27,17 @@
     {
         "code": "0003",
         "name": "SMP Negeri 2 Lamongan",
-        "domain": "https://digischool.smpn2lmg.sch.id"
+        "domain": "https://snedalmg.skoolink.id"
     },
     {
         "code": "0004",
         "name": "SMP Negeri 1 Lamongan",
-        "domain": "https://snesalamdigital.rlite.id"
+        "domain": "https://snesalamdigital.skoolink.id"
     },
     {
         "code": "0005",
         "name": "SMA Negeri 1 Ngimbang",
-        "domain": "https://siwangi.rlite.id"
+        "domain": "https://siwangi.skoolink.id"
     },
     {
         "code": "9999",
