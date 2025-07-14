@@ -15,27 +15,27 @@
         "domain": "http://192.168.1.70:7777"
     },
     {
-        "code": "0001",
+        "code": "1001",
         "name": "MI Murni Sunan Drajat",
         "domain": "https://mimurni.rlite.id"
     },
     {
-        "code": "0002",
+        "code": "1002",
         "name": "SMP APLIKATIF As Sunniyyah Sunan Drajat Lamongan",
         "domain": "https://smpaplikatif.rlite.id"
     },
     {
-        "code": "0003",
+        "code": "1003",
         "name": "SMP Negeri 2 Lamongan",
         "domain": "https://snedalmg.skoolink.id"
     },
     {
-        "code": "0004",
+        "code": "1004",
         "name": "SMP Negeri 1 Lamongan",
         "domain": "https://snesalamdigital.skoolink.id"
     },
     {
-        "code": "0005",
+        "code": "1005",
         "name": "SMA Negeri 1 Ngimbang",
         "domain": "https://siwangi.skoolink.id"
     },
