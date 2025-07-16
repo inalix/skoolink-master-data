@@ -16,18 +16,18 @@
     },
     {
         "code": "1001",
+        "name": "SMP Negeri 2 Lamongan",
+        "domain": "https://snedalmg.skoolink.id"
+    },
+    {
+        "code": "1002",
         "name": "MI Murni Sunan Drajat",
         "domain": "https://mimurni.rlite.id"
     },
     {
-        "code": "1002",
+        "code": "1003",
         "name": "SMP APLIKATIF As Sunniyyah Sunan Drajat Lamongan",
         "domain": "https://smpaplikatif.rlite.id"
-    },
-    {
-        "code": "1003",
-        "name": "SMP Negeri 2 Lamongan",
-        "domain": "https://snedalmg.skoolink.id"
     },
     {
         "code": "1004",
