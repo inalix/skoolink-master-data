@@ -15,6 +15,16 @@
         "domain": "http://192.168.1.70:7777"
     },
     {
+        "code": "3333",
+        "name": "Sekolah Demo Skoolink",
+        "domain": "https://demo.skoolink.id"
+    },
+    {
+        "code": "4444",
+        "name": "Sekolah Staging Skoolink",
+        "domain": "https://staging.skoolink.id"
+    },
+    {
         "code": "1001",
         "name": "SMP Negeri 2 Lamongan",
         "domain": "https://snedalmg.skoolink.id"
