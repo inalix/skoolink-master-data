@@ -5,6 +5,11 @@
         "domain": "http://10.11.1.5:7777"
     },
     {
+        "code": "0001",
+        "name": "stg2",
+        "domain": "http://skoolink.10.11.1.31.nip.io:7000"
+    },
+    {
         "code": "1111",
         "name": "Devel2",
         "domain": "https://skoolink.demo.inalix.com"
